@@ -1,12 +1,12 @@
-# LEO-VL: Towards 3D Vision-Language Generalists via Data Scaling with Efficient Representation
+# LEO-VL: Efficient Scene Representation for Scalable 3D Vision-Language Learning
 
 This is the repository that contains source code for the [LEO-VL website](https://leo-vl.github.io/).
 
-If you find LEO-VL useful for your work, please cite:
+If you find LEO-VL useful, please cite:
 ```bibtex
 @article{huang2025leovl,
-  title={LEO-VL: Towards 3D Vision-Language Generalists via Data Scaling with Efficient Representation},
-  author={Huang, Jiangyong and Ma, Xiaojian and Linghu, Xiongkun and Fan, Yue and He, Junchao and Tan, Wenxin and Li, Qing and Zhu, Song-Chun and Chen, Yixin and Jia, Baoxiong and Huang, Siyuan},
+  title={LEO-VL: Efficient Scene Representation for Scalable 3D Vision-Language Learning},
+  author={Huang, Jiangyong and Ma, Xiaojian and Linghu, Xiongkun and He, Junchao and Li, Qing and Zhu, Song-Chun and Chen, Yixin and Jia, Baoxiong and Huang, Siyuan},
   journal={arXiv preprint arXiv:2506.09935},
   year={2025}
 }
